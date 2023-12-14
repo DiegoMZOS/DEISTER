@@ -1,0 +1,17 @@
+D:\Projects\C#\HERRAMIENTA2\HERMMAMIENTA2\bin\Debug\net7.0-windows\HERMMAMIENTA2.exe
+D:\Projects\C#\HERRAMIENTA2\HERMMAMIENTA2\bin\Debug\net7.0-windows\HERMMAMIENTA2.deps.json
+D:\Projects\C#\HERRAMIENTA2\HERMMAMIENTA2\bin\Debug\net7.0-windows\HERMMAMIENTA2.runtimeconfig.json
+D:\Projects\C#\HERRAMIENTA2\HERMMAMIENTA2\bin\Debug\net7.0-windows\HERMMAMIENTA2.dll
+D:\Projects\C#\HERRAMIENTA2\HERMMAMIENTA2\bin\Debug\net7.0-windows\HERMMAMIENTA2.pdb
+D:\Projects\C#\HERRAMIENTA2\HERMMAMIENTA2\obj\Debug\net7.0-windows\HERMMAMIENTA2.csproj.AssemblyReference.cache
+D:\Projects\C#\HERRAMIENTA2\HERMMAMIENTA2\obj\Debug\net7.0-windows\HERMMAMIENTA2.Form1.resources
+D:\Projects\C#\HERRAMIENTA2\HERMMAMIENTA2\obj\Debug\net7.0-windows\HERMMAMIENTA2.csproj.GenerateResource.cache
+D:\Projects\C#\HERRAMIENTA2\HERMMAMIENTA2\obj\Debug\net7.0-windows\HERMMAMIENTA2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\HERRAMIENTA2\HERMMAMIENTA2\obj\Debug\net7.0-windows\HERMMAMIENTA2.AssemblyInfoInputs.cache
+D:\Projects\C#\HERRAMIENTA2\HERMMAMIENTA2\obj\Debug\net7.0-windows\HERMMAMIENTA2.AssemblyInfo.cs
+D:\Projects\C#\HERRAMIENTA2\HERMMAMIENTA2\obj\Debug\net7.0-windows\HERMMAMIENTA2.csproj.CoreCompileInputs.cache
+D:\Projects\C#\HERRAMIENTA2\HERMMAMIENTA2\obj\Debug\net7.0-windows\HERMMAMIENTA2.dll
+D:\Projects\C#\HERRAMIENTA2\HERMMAMIENTA2\obj\Debug\net7.0-windows\refint\HERMMAMIENTA2.dll
+D:\Projects\C#\HERRAMIENTA2\HERMMAMIENTA2\obj\Debug\net7.0-windows\HERMMAMIENTA2.pdb
+D:\Projects\C#\HERRAMIENTA2\HERMMAMIENTA2\obj\Debug\net7.0-windows\HERMMAMIENTA2.genruntimeconfig.cache
+D:\Projects\C#\HERRAMIENTA2\HERMMAMIENTA2\obj\Debug\net7.0-windows\ref\HERMMAMIENTA2.dll
